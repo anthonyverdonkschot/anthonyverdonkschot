@@ -6,7 +6,7 @@
 
 [Linux File Permissions](https://github.com/anthonyverdonkschot/Linux-File-Permissions)
 <br>
-[Applying SQL Filters to Queries](https://github.com/anthonyverdonkschot/Apply-Filters-to-SQL-Queries)
+[Apply Filters to SQL Queries](https://github.com/anthonyverdonkschot/Apply-Filters-to-SQL-Queries)
 
 <h2>📃Certifications</h2>
 
