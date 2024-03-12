@@ -23,7 +23,7 @@ Google Cybersecurity (WIP)
 <h2>🚩 CTF</h2>
 
 ### TryHackMe | Top 10%<br>
-Persistent learning of offensive and defensive security through practical hands-on labs.
+I continuously learn about defensive and offensive security through hands-on labs from TryHackMe.
 
  <a href="https://tryhackme.com/p/anthonyvlan">
     <img src="https://tryhackme-badges.s3.amazonaws.com/anthonyvlan.png" alt="AnthonyVerdonkschot | TryHackMe">
