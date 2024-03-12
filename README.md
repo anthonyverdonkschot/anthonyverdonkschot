@@ -64,6 +64,10 @@ I continuously learn about defensive and offensive security through hands-on lab
     <img height="22" width="22" src="https://tryhackme.com/img/badges/hashcracker.svg"
     alt="Hash Cracker">
 </a>
+<a href="https://tryhackme.com/anthonyvlan/badges/metasploitable">
+    <img height="22" width="22" src="https://tryhackme.com/img/badges/metasploit.svg"
+    alt="Metasploitable">
+</a>
 
 ### THM Certifications:
 
