@@ -1,16 +1,19 @@
-<h1>Hello, I'm Anthony!<br>
-    <a href="https://www.linkedin.com/in/anthonyverdonkschot">Cybersecurity Student</a>
+<h1> Hello, I'm Anthony!<br>
+    <a href="https://www.linkedin.com/in/anthonyverdonkschot"> Cybersecurity Student</a>
 </h1>
 
-<h2>👨‍💻 Projects</h2>
+<h2>📂 Portfolio </h2>
 
-[Build a Virtual Network](https://github.com/anthonyverdonkschot/build_a_virtual_network)
-<br>
-[Linux File Permissions](https://github.com/anthonyverdonkschot/linux_file_permissions)
-<br>
-[Apply Filters to SQL Queries](https://github.com/anthonyverdonkschot/apply_filters_to_sql_queries)
+| Project | Skill |
+| ----------- | ----------- |
+|[Build a Virtual Network](https://github.com/anthonyverdonkschot/build_a_virtual_network) | Fundamental understanding of networking concepts and configuration.
+Built a hotel network within Cisco Packet Tracer utilizing networking technologies such as VLANs, DHCP, OSPF, Wi-Fi, SSH, and port security. | <a href="https://github.com/anthonyverdonkschot/build_a_virtual_network#conclusion"> <img src="https://github.com/anthonyverdonkschot/build_a_virtual_network/blob/main/images/PacketTracer_vJjqOQJD3a.png" width="100%"> </a> 
+|[Apply Filters to SQL Queries](https://github.com/anthonyverdonkschot/apply_filters_to_sql_queries) | Experience applying filters to SQL queries.
+ Practiced applying filters to SQL statements to obtain precise results. | <a href="https://github.com/anthonyverdonkschot/apply_filters_to_sql_queries#project-scenario"> <img src="https://github.com/anthonyverdonkschot/apply_filters_to_sql_queries/blob/main/images/SQL_1.png" width="100%"> </a>
+|[Linux File Permissions](https://github.com/anthonyverdonkschot/linux_file_permissions) | Familarity with Linux and basic commands.
+| Identified and modified permissions in a Linux file system based on a set of authorization instructions. | <a href="https://github.com/anthonyverdonkschot/linux_file_permissions#describe-the-permissions-string"> <img src="https://github.com/anthonyverdonkschot/linux_file_permissions/blob/main/images/LFP_3.png" width="100%"> </a>
 
-<h2>📃 Certifications</h2>
+<h2>📑 Certifications</h2>
 
 <div>
     <a href="https://www.credly.com/badges/c12ed078-b84a-4832-9d4e-c9ba244b8abc/public_url">
@@ -87,16 +90,16 @@ I continuously learn about defensive and offensive security through hands-on lab
 <a href="https://tryhackme.com/ps121/badges/90-day-streak">
     <img height="22" width="22" src="https://tryhackme.com/img/badges/streak90.svg"
     alt="90 Day Streak">
-</a>
+</a><br><br>
 
-### THM Certifications:
+| Certificate | Path/Labs Outline |
+| ----------- | ----------- |
+| [THM: Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-37MLBAJM40.png) | https://tryhackme.com/path/outline/beginner
+| [THM: Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZIPDIIJTAS.png) | https://tryhackme.com/path/outline/introtocyber
+| [THM: Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZDHDVLEWPW.png) | https://tryhackme.com/path/outline/presecurity
+| [THM: Advent of Cyber 2023](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WBGXGZT13S.png) | https://tryhackme.com/r/room/adventofcyber2023
 
-[THM: Complete Beginner](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-37MLBAJM40.png)  
-[THM: Introduction to Cyber Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZIPDIIJTAS.png)  
-[THM: Pre Security](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZDHDVLEWPW.png)  
-[THM: Advent of Cyber 2023](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-WBGXGZT13S.png)  
-
-<h2>📖  Other Training</h2>
+<h2>🗝️ Other Training</h2>
 
 <a href="https://www.credly.com/badges/a3ea9423-54c1-4af1-8721-1551cf8f1e6a/public_url">
     <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="90" alt="Cisco Introduction to Cybersecurity"/>
