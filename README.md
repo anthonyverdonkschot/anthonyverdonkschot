@@ -32,7 +32,7 @@ Built a hotel network within Cisco Packet Tracer utilizing networking technologi
 
 <h2>🚩 CTF</h2>
 
-### TryHackMe | Top 7%<br>
+### TryHackMe | Top 6%<br>
 I continuously learn about defensive and offensive security through hands-on labs from TryHackMe.
 
  <a href="https://tryhackme.com/p/ps121">
