@@ -5,7 +5,7 @@
 
 | Project | Skill |
 | ----------- | ----------- |
-|[Active Directory Project](https://github.com/anthonyverdonkschot/active_directory_project) | Virtual machines, Active Directory, Splunk, and Kali Linux.
+|[Active Directory Project](https://github.com/anthonyverdonkschot/active_directory_project) | Virtual machines, Active Directory, Splunk, PowerShell, and Kali Linux.
 Set up an Active Directory server with a Windows 10 user, and connected both to a Splunk server to monitor attacks originating from a Kali Linux machine. | <a href="https://github.com/anthonyverdonkschot/active_directory_project?tab=readme-ov-file#objective-create-a-logical-diagram"> <img src="https://github.com/anthonyverdonkschot/active_directory_project/blob/main/images/ad_project_diagram_v2.png" width="100%"> </a>
 |[Build a Virtual Network](https://github.com/anthonyverdonkschot/build_a_virtual_network) | Fundamental understanding of networking concepts and configuration.
 Built a hotel network within Cisco Packet Tracer utilizing networking technologies such as VLANs, DHCP, OSPF, Wi-Fi, SSH, and port security. | <a href="https://github.com/anthonyverdonkschot/build_a_virtual_network#conclusion"> <img src="https://github.com/anthonyverdonkschot/build_a_virtual_network/blob/main/images/PacketTracer_vJjqOQJD3a.png" width="100%"> </a> 
