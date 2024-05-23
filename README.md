@@ -1,5 +1,4 @@
-<h1> Hello, I'm Anthony!<br>
-    <a href="https://www.linkedin.com/in/anthonyverdonkschot"> Cybersecurity Student</a>
+<h1> Hello, I'm <a href="https://www.linkedin.com/in/anthonyverdonkschot" > Anthony! </a> <br>
 </h1>
 
 <h2>📂 Portfolio </h2>
