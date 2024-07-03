@@ -23,6 +23,9 @@ Built a hotel network within Cisco Packet Tracer utilizing networking technologi
     <a href="https://www.credly.com/badges/529628cb-a3ad-4121-831e-92b4c5b34a1e">
       <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" width="90" alt="CompTIA Network+"/>
     </a>
+    <a href="https://www.credly.com/badges/809a7f62-d417-425c-8dbf-f3dc40a56c2c/public_url">
+      <img src="https://images.credly.com/size/340x340/images/63482325-a0d6-4f64-ae75-f5f33922c7d0/CompTIA_A_2Bce.png" width="90" alt="CompTIA A+/>
+    </a>
     <a href="https://www.credly.com/badges/571d6757-59b1-4936-ba82-7c80f4414b04/public_url">
       <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="105" alt="Google Cybersecurity Certificate"/>
     </a>
