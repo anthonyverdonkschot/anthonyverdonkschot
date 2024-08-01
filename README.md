@@ -37,7 +37,7 @@ Built a hotel network within Cisco Packet Tracer utilizing networking technologi
 <h2>🚩 CTF</h2>
 
 ### TryHackMe | Top 6%<br>
-I continuously learn about defensive and offensive security through hands-on labs from TryHackMe.
+I learn about defensive and offensive security through hands-on labs from TryHackMe.
 
  <a href="https://tryhackme.com/p/ps121">
     <img src="https://tryhackme-badges.s3.amazonaws.com/ps121.png" alt="ps121 | TryHackMe">
